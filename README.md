@@ -1,10 +1,10 @@
 # Hi, I'm Neal
 
-I am a builder with PM roots at Powerset, Cisco, VMware, Google, and Apple. I like shipping useful software that makes life easier.
+I am a builder with product management roots at Powerset, Cisco, VMware, Google, and Apple. I ship software that makes life more livable.
 
 ## Projects
 
-| Project | What it is | Links |
+| Personal Project | What it is | Links |
 |---|---|---|
 | Gatewise | Airport "leave by" time planner | [Website](https://nealmueller.com/about) |
 | Summitbound | Dungeon-style mountaineering game | [Website](https://nealmueller.com/about) |
