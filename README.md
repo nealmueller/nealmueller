@@ -13,6 +13,5 @@ I am a builder with PM roots at Powerset, Cisco, VMware, Google, and Apple. I li
 | Landings | Visualize ForeFlight logbook entries on a map | [![Live](https://img.shields.io/badge/Vercel-Live-000000?logo=vercel&logoColor=white)](https://landings-sigma.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/nealmueller/Landings) |
 | CodexRunlight | Mac menu bar alert when Codex Desktop needs guidance | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/nealmueller/codex-runlight) |
 
-I value clear product thinking and kind collaboration. If you open an issue or PR, I will be responsive and helpful.
 
 More: [nealmueller.com/about](https://nealmueller.com/about)
