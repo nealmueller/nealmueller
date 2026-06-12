@@ -1,17 +1,22 @@
 # Hi, I'm Neal
 
-I am a builder with product management roots at Powerset, Cisco, VMware, Google, and Apple. I ship software that makes life more livable.
+I build AI, search, and developer-adjacent tools with product management roots at Powerset, Cisco, VMware, Google, and Apple. My current work centers on ML evaluation, knowledge graphs, LLM answer quality, and small software products that make complex workflows feel simple.
+
+## Focus
+
+- AI evaluation and quality loops: gold sets, A/B tests, cohort analysis, precision/recall, task completion, and failure-mode analysis
+- Search, ranking, and knowledge systems: entity graphs, retrieval quality, source attribution, freshness, and open-domain QA
+- Builder projects: macOS, iOS, maps, automation, and agent workflow utilities
 
 ## Projects
 
-| Personal Project | What it is | Links |
+| Personal Project | What it demonstrates | Links |
 |---|---|---|
-| Gatewise | Airport "leave by" time planner |  |
-| Summitbound | Dungeon-style mountaineering game |  |
-| Worthbar | Mac menu bar app for Simplifi net worth | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/nealmueller/simplifi-worthbar) |
-| Phonetic Alfa | Reads back confirmation codes phonetically | [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/us/app/phonetic-alfa/id6757892845) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/nealmueller/PhoneticAlfa) |
-| Landings | Visualize ForeFlight logbook entries on a map | [![Live](https://img.shields.io/badge/Vercel-Live-000000?logo=vercel&logoColor=white)](https://landings-sigma.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/nealmueller/Landings) |
-| CodexRunlight | Mac menu bar alert when Codex Desktop needs guidance | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/nealmueller/codex-runlight) |
-
+| Codex Runlight | macOS menu bar utility for agent workflow state and human-in-the-loop handoff | [GitHub](https://github.com/nealmueller/codex-runlight) |
+| Worthbar | Privacy-first macOS menu bar app for net worth visibility | [GitHub](https://github.com/nealmueller/worthbar-public) |
+| Phonetic Alfa | Shipped iOS app that reads confirmation codes phonetically | [App Store](https://apps.apple.com/us/app/phonetic-alfa/id6757892845) · [GitHub](https://github.com/nealmueller/PhoneticAlfa) |
+| Landings | Map-based view of ForeFlight logbook landings and runway history | [Live](https://landings-sigma.vercel.app) · [GitHub](https://github.com/nealmueller/Landings) |
+| Gatewise | Airport timing planner that estimates best leave-by time |  |
+| Summitbound | Dungeon-style mountaineering game focused on route and risk choices |  |
 
 More: [nealmueller.com/about](https://nealmueller.com/about)
