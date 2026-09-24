@@ -7,12 +7,8 @@ I've worked on search, knowledge graphs, and AI at Apple, and previously held pr
 | App | What it does | Links |
 |---|---|---|
 | Baby Zoo Animal Play | Animated animals, sounds, and spoken names for babies and toddlers. | [App Store](https://apps.apple.com/us/app/baby-zoo-animal-play/id6760320074) |
-| Codex Runlight | A Mac menu bar indicator that shows when Codex is thinking. | [Download](https://github.com/nealmueller/codex-runlight/releases/latest) · [Code](https://github.com/nealmueller/codex-runlight) |
-| Worthbar | Check your net worth from the Mac menu bar. | [App Store](https://apps.apple.com/us/app/worthbar/id6759974997?mt=12) · [Code](https://github.com/nealmueller/worthbar-public) |
 | Phonetic Flashcard Trainer | Practice phonetic alphabets and read codes aloud. | [App Store](https://apps.apple.com/us/app/phonetic-flashcard-trainer/id6757892845) · [Code](https://github.com/nealmueller/PhoneticAlfa) |
 | Landings Companion | See your ForeFlight logbook landings and runway history on a map. | [App Store](https://apps.apple.com/us/app/landings-companion/id6759976024) · [Code](https://github.com/nealmueller/Landings) |
-| Gatewise | Work out when to leave for the airport. | |
-| Summitbound | A mountaineering game about choosing routes and managing risk. | |
 
 ## Research
 
