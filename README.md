@@ -1,30 +1,24 @@
 # Hi, I'm Neal
 
-I build AI, search, and developer-adjacent tools with product management roots at Powerset, Cisco, VMware, Google, and Apple. My current work centers on ML evaluation, knowledge graphs, LLM answer quality, and small software products that make complex workflows feel simple.
+I've worked on search, knowledge graphs, and AI at Apple, and previously held product roles at Google, VMware, Cisco, and Powerset. I also make apps for kids, pilots, and everyday use.
 
-## Focus
+## Apps
 
-- AI evaluation and quality loops: gold sets, A/B tests, cohort analysis, precision/recall, task completion, and failure-mode analysis
-- Search, ranking, and knowledge systems: entity graphs, retrieval quality, source attribution, freshness, and open-domain QA
-- Builder projects: macOS, iOS, maps, automation, and agent workflow utilities
-
-## Apps and projects
-
-| App / Project | What it demonstrates | Get the app / Source |
+| App | What it does | Links |
 |---|---|---|
-| Baby Zoo Animal Play | Shipped iOS app with simple interaction design, animation, settings, and in-app purchase | [Download on the App Store](https://apps.apple.com/us/app/baby-zoo-animal-play/id6760320074) |
-| Codex Runlight | macOS menu bar utility for agent workflow state and human-in-the-loop handoff | [Download for Mac](https://github.com/nealmueller/codex-runlight/releases/latest) · [GitHub](https://github.com/nealmueller/codex-runlight) |
-| Worthbar | Privacy-first macOS menu bar app for net worth visibility | [Download on the App Store](https://apps.apple.com/us/app/worthbar/id6759974997?mt=12) · [GitHub](https://github.com/nealmueller/worthbar-public) |
-| Phonetic Flashcard Trainer | Shipped iOS app that reads confirmation codes phonetically | [Download on the App Store](https://apps.apple.com/us/app/phonetic-flashcard-trainer/id6757892845) · [GitHub](https://github.com/nealmueller/PhoneticAlfa) |
-| Landings Companion | Map-based view of ForeFlight logbook landings and runway history | [Download on the App Store](https://apps.apple.com/us/app/landings-companion/id6759976024) · [GitHub](https://github.com/nealmueller/Landings) |
-| Gatewise | Airport timing planner that estimates best leave-by time |  |
-| Summitbound | Dungeon-style mountaineering game focused on route and risk choices |  |
+| Baby Zoo Animal Play | Animated animals, sounds, and spoken names for babies and toddlers. | [App Store](https://apps.apple.com/us/app/baby-zoo-animal-play/id6760320074) |
+| Codex Runlight | A Mac menu bar indicator that shows when Codex is thinking. | [Download](https://github.com/nealmueller/codex-runlight/releases/latest) · [Code](https://github.com/nealmueller/codex-runlight) |
+| Worthbar | Check your net worth from the Mac menu bar. | [App Store](https://apps.apple.com/us/app/worthbar/id6759974997?mt=12) · [Code](https://github.com/nealmueller/worthbar-public) |
+| Phonetic Flashcard Trainer | Practice phonetic alphabets and read codes aloud. | [App Store](https://apps.apple.com/us/app/phonetic-flashcard-trainer/id6757892845) · [Code](https://github.com/nealmueller/PhoneticAlfa) |
+| Landings Companion | See your ForeFlight logbook landings and runway history on a map. | [App Store](https://apps.apple.com/us/app/landings-companion/id6759976024) · [Code](https://github.com/nealmueller/Landings) |
+| Gatewise | Work out when to leave for the airport. | |
+| Summitbound | A mountaineering game about choosing routes and managing risk. | |
 
-## Selected peer-reviewed research
+## Research
 
-Research referenced in my resume, covering knowledge graph systems and multilingual question-answering evaluation:
+Two peer-reviewed papers on knowledge graphs and question answering:
 
-- [Saga: A Platform for Continuous Construction and Serving of Knowledge At Scale](https://machinelearning.apple.com/research/continuous-construction) (SIGMOD 2022): a platform for continuously building and serving large-scale knowledge graphs.
-- [MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering](https://aclanthology.org/2021.tacl-1.82/) (Transactions of the Association for Computational Linguistics, 2021): an open-domain QA benchmark spanning 26 languages.
+- [Saga: A Platform for Continuous Construction and Serving of Knowledge At Scale](https://machinelearning.apple.com/research/continuous-construction), SIGMOD 2022.
+- [MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering](https://aclanthology.org/2021.tacl-1.82/), TACL 2021.
 
-More: [nealmueller.com/about](https://nealmueller.com/about)
+[More about me](https://nealmueller.com/about)
